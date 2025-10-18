@@ -1,4 +1,4 @@
-# **Linux configurations for different distros**
+# **Standard Linux configurations for different distros**
 
 ## Current support distros:
 
